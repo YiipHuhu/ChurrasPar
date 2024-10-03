@@ -87,4 +87,6 @@ class MainActivity : AppCompatActivity() {
         resultadoAgua.text = ""
         resultadoRefrigerante.text = ""
     }
+
+    // deve existir um jeito mais simples de fazer isso, pq o atividade do ******* :D
 }
